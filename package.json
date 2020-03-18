@@ -1,0 +1,17 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bl": "^4.0.2",
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sivabharathy <gotocva@gmail.com>",
+  "license": "ISC"
+}
